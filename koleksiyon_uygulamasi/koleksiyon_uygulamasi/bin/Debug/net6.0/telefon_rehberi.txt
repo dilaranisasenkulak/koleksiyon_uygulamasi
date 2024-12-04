@@ -1,0 +1,28 @@
+{\rtf1\ansi\ansicpg1254\cocoartf2761
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\
+Ali | İstanbul | 212-555-1234
+Zeynep | Bursa | 224-987-6543
+Mehmet | Antalya | 242-456-7890
+Fatma | İzmir | 232-321-6548
+Ahmet | Ankara | 312-765-4321
+Ebru | Konya | 332-111-2222
+Dilara | İstanbul | 212-333-4444
+Ayşe | Bursa | 224-567-8901
+Hüseyin | Antalya | 242-999-8888
+Deniz | İzmir | 232-654-3210
+Mert | Ankara | 312-123-4567
+Esra | İstanbul | 212-777-8888
+Yusuf | Konya | 332-444-5555
+Beyza | Bursa | 224-888-9999
+Cem | Antalya | 242-333-2222
+Aylin | İzmir | 232-888-7777
+
+
+\
+}

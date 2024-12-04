@@ -1,0 +1,15 @@
+/Users/dilaranisasenkulak/Projects/koleksiyon_uygulamasi/koleksiyon_uygulamasi/bin/Debug/net6.0/koleksiyon_uygulamasi
+/Users/dilaranisasenkulak/Projects/koleksiyon_uygulamasi/koleksiyon_uygulamasi/bin/Debug/net6.0/koleksiyon_uygulamasi.deps.json
+/Users/dilaranisasenkulak/Projects/koleksiyon_uygulamasi/koleksiyon_uygulamasi/bin/Debug/net6.0/koleksiyon_uygulamasi.runtimeconfig.json
+/Users/dilaranisasenkulak/Projects/koleksiyon_uygulamasi/koleksiyon_uygulamasi/bin/Debug/net6.0/koleksiyon_uygulamasi.dll
+/Users/dilaranisasenkulak/Projects/koleksiyon_uygulamasi/koleksiyon_uygulamasi/bin/Debug/net6.0/koleksiyon_uygulamasi.pdb
+/Users/dilaranisasenkulak/Projects/koleksiyon_uygulamasi/koleksiyon_uygulamasi/obj/Debug/net6.0/koleksiyon_uygulamasi.csproj.AssemblyReference.cache
+/Users/dilaranisasenkulak/Projects/koleksiyon_uygulamasi/koleksiyon_uygulamasi/obj/Debug/net6.0/koleksiyon_uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilaranisasenkulak/Projects/koleksiyon_uygulamasi/koleksiyon_uygulamasi/obj/Debug/net6.0/koleksiyon_uygulamasi.AssemblyInfoInputs.cache
+/Users/dilaranisasenkulak/Projects/koleksiyon_uygulamasi/koleksiyon_uygulamasi/obj/Debug/net6.0/koleksiyon_uygulamasi.AssemblyInfo.cs
+/Users/dilaranisasenkulak/Projects/koleksiyon_uygulamasi/koleksiyon_uygulamasi/obj/Debug/net6.0/koleksiyon_uygulamasi.csproj.CoreCompileInputs.cache
+/Users/dilaranisasenkulak/Projects/koleksiyon_uygulamasi/koleksiyon_uygulamasi/obj/Debug/net6.0/koleksiyon_uygulamasi.dll
+/Users/dilaranisasenkulak/Projects/koleksiyon_uygulamasi/koleksiyon_uygulamasi/obj/Debug/net6.0/refint/koleksiyon_uygulamasi.dll
+/Users/dilaranisasenkulak/Projects/koleksiyon_uygulamasi/koleksiyon_uygulamasi/obj/Debug/net6.0/koleksiyon_uygulamasi.pdb
+/Users/dilaranisasenkulak/Projects/koleksiyon_uygulamasi/koleksiyon_uygulamasi/obj/Debug/net6.0/koleksiyon_uygulamasi.genruntimeconfig.cache
+/Users/dilaranisasenkulak/Projects/koleksiyon_uygulamasi/koleksiyon_uygulamasi/obj/Debug/net6.0/ref/koleksiyon_uygulamasi.dll
